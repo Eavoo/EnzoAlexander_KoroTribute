@@ -1,0 +1,143 @@
+div {
+  align-self: center;
+  margin-left: 20%;
+  margin-right: 20%;
+  float: inherit;
+  border-radius: 20px;
+  text-align: center;
+  box-shadow: 5px 5px 16px 10px rgba(0,0,0,0.2), -2px -2px 3px 3px rgba(255,255,255,0.32);
+  /*E, S, Spread, Opacity*/
+}
+.Outer1 {
+  background: url("SinnersFinale.png");
+}
+.Volume1 {
+background: #FFC800;
+}
+.Outer2 {
+  background: #00BD52;
+}
+.Volume2 {
+background: #FFC800;
+}
+.Outer3 {
+  background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.9) ), url('SinnersFinale.jpg');
+}
+.Volume3 {
+background: #FF159A;
+}
+.Outer4 {
+  background: #f78471;
+}
+.Volume4 {
+background: #f1523c;
+}
+.Outer5 {
+  background: #ffffff;
+}
+.Volume5 {
+background: #ffffff;
+box-shadow: 0px 0px 0px 0px rgba(0,0,0,0), 0px 0px 0px 0px rgba(0,0,0,0);
+}
+.Outer6 {
+  background: #ac4398;
+}
+.Volume6 {
+background: #01acd7;
+}
+.Outer7 {
+  background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.9) ), url('SinnersFinale.jpg');
+}
+.Volume7 {
+background: #ee1b2e;
+}
+.Outer8 {
+  background: #8BD7F9;
+}
+.Volume8 {
+background: #f55023;
+}
+.Outer9 {
+  background: #795034;
+}
+.Volume9 {
+background: #F764AA;
+}
+.Outer10 {
+  background: linear-gradient(#6EC045, #FBE400, #F47320, #E92128, #9D3991, #00AEF2);
+}
+.Volume10 {
+background: linear-gradient(#6EC045, #FBE400, #F47320, #E92128, #9D3991, #00AEF2);
+outline-style: solid;
+outline-color: #000000;
+}
+.Outer11 {
+  background: #97d7d7;
+}
+.Volume11 {
+background: #ffffff;
+}
+.Outer12 {
+  background: #FEFEFE;
+}
+.Volume12 {
+background: #F8F7CC;
+}
+.Outer13 {
+background: #EBA8CB;
+}
+.Volume13 {
+  background: #E71363;
+}
+.Outer14 {
+  background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.9) ), url('Moss.jpg');
+}
+.Volume14 {
+background: #ACC563;
+}
+.Outer15 {
+  background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.9) ), url('SinnersFinale.jpg');
+}
+.Volume15 {
+  background: #805F98;
+}
+.Outer16 {
+  background: #EB1F25;
+}
+.Volume16 {
+background: #0D6B36;
+}
+.Outer17 {
+  background: conic-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.9) ), url('SinnersFinale.jpg');
+}
+.Volume17 {
+background: #FFC800;
+}
+.Outer18 {
+  background: linear-gradient(#A9CC75,#FFFFFF,#D3252c,#d3252c,#d3252c);
+}
+.Volume18 {
+background: #F99792;
+}
+.Outer19 {
+  background: #000000;
+}
+.Volume19 {
+  color: #ffffff;
+  background: #000000;
+  box-shadow: 0px 0px 0px 0px rgba(0,0,0,0), 0px 0px 0px 0px rgba(0,0,0,0);
+}
+.Outer20 {
+  background: #3DBFDF;
+}
+.Volume20 {
+background: #7EC486;
+}
+.Outer21 {
+  background: url(SinnersFinale.jpg);
+}
+.Volume21 {
+  color: #DDDDDD;
+  font-family: 'Freestyle Script', 'Lucidia Handwriting Italic', 'Segoe Script', 'Vivaldi Italic';
+  background: url(Chalkboard.jpg);
+}
